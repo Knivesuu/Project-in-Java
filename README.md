@@ -17,6 +17,7 @@ declaration and assignments. methods with mixed verbs which internal word
 capitalized,File name are in camelcase, classes and interface are in camelcase,
 easy scanning and extra comlumn spaces 
 
+Sourcecode is in src; javadoc is project.impl;exejar is project.jar
 # Project-in-Java
 # Project-in-Java
 # Project-in-Java
